@@ -1562,7 +1562,7 @@
     "owner": null,
     "seo_title": "",
     "show_in_menus": true,
-    "search_description": "",
+    "search_description": "test",
     "go_live_at": null,
     "expire_at": null,
     "expired": false,
